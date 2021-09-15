@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Riya-Bisht
 - 👀 I’m interested in Science and Technology. 
+- :) BTech-CSE(2021-25) fresher.
 - # I am here to learn and explore the world of coding. 
 - # I have done few projects on Python, HTML and CSS. 
 - 🌱 I’m currently learning JavaScript.
