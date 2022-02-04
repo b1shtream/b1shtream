@@ -1,4 +1,4 @@
-- ![image](https://i.gifer.com/758b.gif)
+- ![image](https://www.simplilearn.com/ice9/free_resources_article_thumb/white_hat_hacker.jpg)
 - ## 👋 Hi, I’m _@Riya-Bisht_
 - ## 👀 I’m interested in _**Science and Technology**_. 
 - ## :) _**BTech-CSE(2021-25)**_ fresher.
