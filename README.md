@@ -1,4 +1,4 @@
- ![gif](https://i.gifer.com/758b.gif)
+![gif](https://i.gifer.com/758b.gif)
 - ## 👋 Hi, I’m _@Riya-Bisht_
 - ### 👀 I’m interested in _**Science and Technology**_. 
 - ### :) _**BTech-CSE(2021-25)**_ fresher.
