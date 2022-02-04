@@ -7,8 +7,8 @@
 - ### 🌱 I’m currently learning _**C language, exploring LINUX based OS and Ethical Hacking**_.
 - ### 💞️ I’m looking to collaborate on _**C language related projects**_
 - ### 📫 How to reach me: _**manasi.riya2003@gmail.com**_
-- ### >"Any security that the mind of man can create, the mind of man can defeat."
-- ### > -anonymous
+### >"Any security that the mind of man can create, the mind of man can defeat."
+### > -anonymous
 
 
 <!---
