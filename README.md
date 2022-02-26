@@ -5,6 +5,7 @@
 - #### I am here to learn and explore the world of _**coding**_. 
 - #### I have done few projects on _**Python, HTML5, Javascript and CSS**_. 
 - #### 🌱 I’m currently learning _**C language, exploring LINUX based OS and Ethical Hacking**_.
+- #### @_@ **OPEN SOURCE ENTHUSIAST**
 - #### 💞️ I’m looking to collaborate on _**C language related projects**_
 - #### 📫 How to reach me: _**manasi.riya2003@gmail.com**_
 >### "Any security that the mind of man can create, the mind of man can defeat."
