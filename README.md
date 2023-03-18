@@ -8,11 +8,8 @@
 - #### **FOSS and Linux Enthusiast**
 - #### I’m looking to collaborate on _**open source projects**_
 - #### How to reach me: _**hack1001infinity@gmail.com**_
->### "Any security that the mind of man can create, the mind of man can defeat."
->### -anonymous
-
-
-
+>### "There's no place as 127.0.0.1"
+>### - anonymous
 <!---
 Riya-Bisht/Riya-Bisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
