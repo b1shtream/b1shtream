@@ -1,5 +1,5 @@
 ![hackerimage](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/354px-Gnulinux.svg.png?20220922023605)
-- ## 👋 Hi, I’m _@Riya-Bisht_
+## 👋 Hi, I’m _@Riya-Bisht_
 - #### -/00\- Security geek running Virtual machines and experimenting with Operating Systems
 - #### Tester and Debugger by heart
 - #### _**BTech-CSE(2021-25)**_ sophomore. 
