@@ -4,7 +4,7 @@
 - #### :) _**BTech-CSE(2021-25)**_ sophomore.
 - #### I am here to learn and explore the world of _**coding**_. 
 - #### I have done few projects on _**Python, HTML5, Flutter, C/C++, Javascript and CSS**_. 
-- #### 🌱 I’m currently learning _** Java, exploring LINUX based OS and Cybersecurity**_.
+- #### 🌱 I’m currently learning _**Java, exploring LINUX based OS and Cybersecurity**_.
 - #### @_@ **FOSS and Linux Enthusiast**
 - #### 💞️ I’m looking to collaborate on _**open source projects**_
 - #### 📫 How to reach me: _**hack1001infinty@gmail.com**_
