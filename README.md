@@ -8,8 +8,8 @@
 #### **FOSS and Linux Enthusiast**
 #### N00b CTF player >_<
 #### I’m looking to collaborate on _**open source projects**_
-#### How to reach me: _**hack1001infinity@gmail.com**
-#### Join our ![discord-server](https://discord.com/invite/Jdq4T52k) only if you are serious in contributing to Linux, FOSS and Security 
+#### How to reach me: _**hack1001infinity@gmail.com**_
+#### Join our ![discord-server](https://discord.com/invite/Jdq4T52k) only if you are serious in contributing to _Linux, FOSS and Security_
 >### "There's no place as 127.0.0.1"
 >### - anonymous
 <!---
