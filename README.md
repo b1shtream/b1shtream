@@ -6,6 +6,7 @@
 - #### Done few projects on _**Python, HTML5, Flutter, C/C++, Javascript and CSS**_. 
 - ####  I’m currently learning _**Java, exploring Cloud Computing and Cybersecurity**_.
 - #### **FOSS and Linux Enthusiast**
+- #### N00b CTF player >_<
 - #### I’m looking to collaborate on _**open source projects**_
 - #### How to reach me: _**hack1001infinity@gmail.com**_
 >### "There's no place as 127.0.0.1"
