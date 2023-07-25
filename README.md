@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning DevOps<br>I'm looking to collaborate on open-source projects<br>I'm interested in Linux, Security, Cloud, and DevOps<br>Previosuly contributed to Fedora, KDE, and other open-source organizations<br>Ask me about Linux and Free and Open Source Software(FOSS)<br>Join my Discord Server only if you are serious about contributing to Linux, FOSS, and Security- [PenguinArmy](https://discord.gg/dnCVXmDUXt)<br>Fun fact - I love to play with different Linux Distributions<br><br>
+I'm currently learning DevOps<br>I'm looking to collaborate on open-source projects<br>I'm interested in Linux, Security, Cloud, and DevOps<br>Previously contributed to Fedora, KDE, and other open-source organizations<br>Ask me about Linux and Free and Open Source Software(FOSS)<br>Join my Discord Server only if you are serious about contributing to Linux, FOSS, and Security- [PenguinArmy](https://discord.gg/dnCVXmDUXt)<br>Fun fact - I love to play with different Linux Distributions<br><br>
 
 
 ## 🌐 Socials:
