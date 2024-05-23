@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-Total Time: 8 hrs 46 mins
+Total Time: 7 hrs 39 mins
 
-Python             7 hrs 58 mins   ██████████████████████▓░░   90.76 %
-Cuda               34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-C                  9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-PHP                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python   7 hrs 4 mins    ███████████████████████░░   92.39 %
+Cuda     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
