@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 15 June 2024 - To: 22 June 2024
 
-Total Time: 2 hrs 40 mins
+Total Time: 2 hrs 6 mins
 
-Python   2 hrs 26 mins   ███████████████████████░░   91.40 %
-Cuda     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   1 hr 57 mins    ███████████████████████░░   92.58 %
+Cuda     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
