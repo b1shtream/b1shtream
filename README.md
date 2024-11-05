@@ -3,12 +3,11 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2024 - To: 03 November 2024
+From: 28 October 2024 - To: 04 November 2024
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-C++   9 mins          ███████████████████████▒░   93.63 %
-C     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
