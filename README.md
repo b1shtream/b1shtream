@@ -3,15 +3,13 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 8 mins
+Total Time: 10 mins
 
-C       6 mins          ███████████████████▒░░░░░   77.01 %
-Bash    1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-C++     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C      8 mins          ████████████████████░░░░░   80.16 %
+Bash   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+C++    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
