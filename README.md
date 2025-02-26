@@ -3,14 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-Total Time: 9 hrs 34 mins
+Total Time: 12 hrs 22 mins
 
-Python     8 hrs 50 mins   ███████████████████████░░   92.37 %
-Markdown   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Text       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Bash       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python     11 hrs 42 mins  ███████████████████████▓░   94.69 %
+Markdown   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Bash       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Text       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
