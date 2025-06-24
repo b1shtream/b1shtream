@@ -3,15 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 17 hrs 21 mins
+Total Time: 16 hrs 16 mins
 
-C             6 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   39.28 %
-C++           4 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
-Python        2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-PHP           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Makefile      44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+C             6 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
+C++           4 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Python        2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+PHP           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Makefile      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
