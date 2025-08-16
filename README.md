@@ -3,15 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 9 hrs 34 mins
+Total Time: 8 hrs 20 mins
 
-C++        6 hrs 10 mins   ████████████████░░░░░░░░░   64.42 %
-C          3 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C++        4 hrs           ████████████░░░░░░░░░░░░░   48.06 %
+Markdown   3 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.59 %
+C          42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Assembly   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
