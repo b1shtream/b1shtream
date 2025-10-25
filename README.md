@@ -3,11 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 0 secs
+Total Time: 50 mins
 
-No activity tracked
+Markdown     44 mins         ██████████████████████▒░░   88.77 %
+Python       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
