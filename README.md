@@ -3,12 +3,11 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
 Total Time: 12 mins
 
-Markdown   12 mins         █████████████████████████   99.60 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
