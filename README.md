@@ -3,15 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2026 - To: 20 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Total Time: 1 hr 27 mins
+Total Time: 1 hr 12 mins
 
-Makefile        1 hr                  ████████████████▒░░░░░░░░   65.92 %
-C               14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Markdown        8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Other           4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Batchfile       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Makefile        1 hr                  ███████████████████▓░░░░░   78.31 %
+C               8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Other           4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Batchfile       2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Bash            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
