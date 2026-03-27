@@ -3,15 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 25 March 2026
+From: 19 March 2026 - To: 26 March 2026
 
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 26 mins
 
-C++        35 mins               ████████████▓░░░░░░░░░░░░   51.09 %
-Text       18 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
-CMake      14 mins               █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-TableGen   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+C++        52 mins               ███████████████░░░░░░░░░░   60.59 %
+Text       18 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+CMake      14 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+TableGen   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
