@@ -3,15 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 4 hrs 4 mins
+Total Time: 7 hrs 37 mins
 
-Markdown     2 hrs 21 mins         █████████████░░░░░░░░░░░░   52.58 %
-Python       1 hr 15 mins          ███████░░░░░░░░░░░░░░░░░░   27.94 %
-Other        24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-JSON         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-TypeScript   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown     4 hrs 10 mins         █████████████░░░░░░░░░░░░   51.90 %
+Python       2 hrs 27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+Other        25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+TeX          23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JSON         15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
