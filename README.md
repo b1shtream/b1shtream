@@ -3,14 +3,15 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 1 hr 26 mins
+Total Time: 8 hrs 1 min
 
-Python     35 mins               ██████████▒░░░░░░░░░░░░░░   41.21 %
-Bash       22 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-TeX        19 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-Markdown   8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Python     4 hrs 56 mins         ███████████████▒░░░░░░░░░   61.52 %
+TeX        1 hr 18 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+Markdown   1 hr 5 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Bash       22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text       17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
