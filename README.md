@@ -3,7 +3,7 @@ breaking and building from first principles --- Computers <3
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2026 - To: 03 October 2026
+From: 28 September 2026 - To: 05 October 2026
 
 Total Time: 0 secs
 
